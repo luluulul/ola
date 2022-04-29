@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back_menu"
+        android:icon="@drawable/ic_back"
+        android:iconTint="@color/colorTexts"
+        android:title="Voltar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/new_menu"
+        android:icon="@drawable/ic_new"
+        android:iconTint="@color/colorTexts"
+        android:title="Novo"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/edit_menu"
+        android:icon="@drawable/ic_edit"
+        android:iconTint="@color/colorTexts"
+        android:title="Editar"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/delete_menu"
+        android:icon="@drawable/ic_delete"
+        android:iconTint="@color/colorTexts"
+        android:title="Deletar"
+        app:showAsAction="always" />
+
+</menu>

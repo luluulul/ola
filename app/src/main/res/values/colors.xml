@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#2F5521</color>
+    <color name="purple_500">#2F5521</color>
+    <color name="purple_700">#2F5521</color>
+    <color name="teal_200">#2F5521</color>
+    <color name="teal_700">#2F5521</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorTexts">#FFFFFFFF</color>
+    <color name="colorGreens">#2C4528</color>
+    <color name="btnRadius">#365431</color>
+</resources>

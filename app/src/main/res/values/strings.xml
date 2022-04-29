@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KamoТренер</string>
+
+    <string name="email_login">Email</string>
+    <string name="password_login">Пароль</string>
+    <string name="btn_login_login">Войти</string>
+    <string name="btn_register_login">Регистрация</string>
+    <string name="title_login">Добро пожаловать</string>
+
+    <string name="text_hello">TextView</string>
+    <string name="name_workout">название тренеровки</string>
+    <string name="description_workout">описание/упражнение</string>
+
+    <string name="title_register">Добро пожаловать</string>
+    <string name="email_register">E-mail</string>
+    <string name="password_register">Пароль</string>
+    <string name="btn_register_register">Регистрация</string>
+    <string name="btn_back_register">Назад</string>
+    <string name="textSplash">Добро пожаловать в фитнес приложение</string>
+</resources>
